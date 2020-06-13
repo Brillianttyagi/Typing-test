@@ -1,1 +1,4 @@
-
+1. python
+2. wikipedia
+3. tkinter
+4. code editor
